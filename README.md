@@ -8,7 +8,8 @@ Regression problems involve predicting a continuous output variable based on inp
 
 ## Neural Network Model
 
-![image](https://github.com/user-attachments/assets/3c6ea026-11c7-424e-bc26-13a47bdf91bc)
+![image](https://github.com/user-attachments/assets/2e82ccfb-85aa-473b-8a32-c4f37fa2f81d)
+
 
 
 ## DESIGN STEPS
